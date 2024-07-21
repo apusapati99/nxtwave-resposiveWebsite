@@ -1,0 +1,14 @@
+.color-palette-heading {
+    color: gainsboro;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: center;
+}
+.color-box {
+    padding: 10px;
+}
+.color-name {
+    color: white;
+    font-size: 20px;
+}

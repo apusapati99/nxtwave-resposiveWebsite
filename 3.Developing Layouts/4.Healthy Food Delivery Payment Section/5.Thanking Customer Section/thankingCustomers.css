@@ -1,0 +1,25 @@
+.thanking-customer-section {
+        background-color: #d0b2001a;
+}
+.thanking-customer-section-heading {
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+}
+.thanking-customer-section-description {
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.thanking-customer-section-img {
+    width: 300px;
+}
+.custom-button {
+    background-color: #d0b200;
+    color: white;
+    height: 45px;
+    width: 110px;
+    border: 0px;
+    border-radius: 6px;
+}

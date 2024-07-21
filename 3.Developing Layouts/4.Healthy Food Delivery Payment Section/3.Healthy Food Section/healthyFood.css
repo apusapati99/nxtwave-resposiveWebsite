@@ -1,0 +1,26 @@
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+.healthy-food-section-img {
+    width: 270px;
+}
+.healthy-food-section-heading {
+    color: #183b56;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+}
+.custom-button {
+    height: 40px;
+    width: 120px;
+    background-color: #d0b200;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}

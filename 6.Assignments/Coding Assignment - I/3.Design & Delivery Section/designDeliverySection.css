@@ -1,0 +1,25 @@
+.design-section-container {
+    background-color: white;
+}
+.card-container {
+    background-color: white;
+    width: 100%;
+    padding: 8px;
+}
+.card-container-img {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 10px;
+}
+.card-container-heading {
+    color: #323f4b;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+.card-description {
+    color: #7b8794;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+}

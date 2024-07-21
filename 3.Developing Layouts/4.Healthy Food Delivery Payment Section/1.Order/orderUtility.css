@@ -1,0 +1,11 @@
+.order-container {
+    width: 80%;
+    border: 2px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+}
+.image {
+    height: 100px;
+    width: 120px;
+    margin-right: 5px;
+}

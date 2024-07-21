@@ -1,0 +1,51 @@
+.explore-section-container {
+    background-color: #f5f7fa;
+}
+.explore-section-heading {
+    color: #183b56;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 500;
+}
+.explore-section-card-container {
+    width: 100%;
+    background-color: white;
+    border-radius: 8px;
+}
+.electronics-gadget-section-heading {
+    color: #1f2933;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.gadgets-img {
+    width: 100%;
+    border-radius: 16px;
+}
+.gadget-name {
+    color: #1f2933;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+}
+.details-link {
+    color: #ff9f00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+.festive-offers-heading {
+    color: #1f2933;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.appliances-img {
+    width: 100%;
+    border-radius: 16px;
+}
+.accessories-card-heading {
+    color: #1f2933;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}

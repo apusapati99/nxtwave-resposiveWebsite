@@ -1,0 +1,47 @@
+.footer-section-bg-container {
+    background-color: #0d2436;
+}
+.fly-buy-img {
+    width: 70%;
+}
+.footer-section-icon-container {
+    background-color: #152c3e;
+    height: 55px;
+    width: 18%;
+    border-radius: 90px;
+    padding-top: 14px;
+    margin-right: 5px;
+}
+.icon {
+    color: #5a7184;
+    font-size: 19px;
+}
+.footer-section-address {
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+}
+.footer-section-heading {
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+}
+.footer-section-title-list {
+    color: #5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.inline-hr {
+    border: 1px solid #5a7184;
+}
+.copyright-icon {
+    color: #5a7184;
+    font-size: 19px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.copyright-text {
+    color: #5a7184;
+    font-size: 19px;
+}

@@ -1,0 +1,37 @@
+.services-section-bg-container {
+    background-color: #52606d;
+}
+.service-title {
+    color: #cced00;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+}
+.services-section-heading {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+}
+.services-section-card-container {
+    background-color: #323f4b;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 16px;
+}
+.services-card-img {
+    height: 50px;
+    width: 50px;
+}
+.services-card-section-heading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+.services-card-section-description {
+    color: #9aa5b1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}

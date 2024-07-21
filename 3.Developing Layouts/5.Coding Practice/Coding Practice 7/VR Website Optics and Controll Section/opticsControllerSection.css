@@ -1,0 +1,24 @@
+.optics-controller-section {
+    background-color: #f9fbfe;
+}
+.optics-controller-section-img {
+    width: 100%;
+    margin-bottom: 5px;
+}
+.optic-controller-section-title {
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+}
+.optic-controller-section-desc {
+    color: #7b8794;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.readMore-button {
+    height: 40px;
+    width: 120px;
+    background-color: #1a2137;
+    color: white;
+}

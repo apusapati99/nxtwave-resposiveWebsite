@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.linear-gradient-without-direction {
+    height: 300px;
+    width: 100%;
+    background-image: linear-gradient(#aa2bff, #ffa740, #4cc8ef);
+}
+
+.linear-gradient-direction-to-top {
+    height: 300px;
+    width: 100%;
+    background-image: linear-gradient(to top, #daa4ff, #ff8c88);
+}
+
+.linear-gradient-direction-to-bottom {
+    height: 300px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, #8a2387, #e94057);
+}
+
+.linear-gradient-direction-to-left {
+    height: 300px;
+    width: 100%;
+    background-image: linear-gradient(to left, #49b407, #f27121);
+}
+
+.linear-gradient-direction-to-right {
+    height: 300px;
+    width: 100%;
+    background-image: linear-gradient(to right, #fc3535, #87cdff);
+}
+
+.linear-gradient-text {
+    color: white;
+    text-align: left;
+    font-family: 'Roboto';
+    font-size: 35px;
+    font-weight: 700;
+}

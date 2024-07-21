@@ -1,0 +1,31 @@
+.explore-menu-section-bg-container {
+    background-color: #ffffff;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+}
+.explore-menu-heading {
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+.menu-items-card {
+    width: 100%;
+    background-color: white;
+    border-radius: 8px;
+}
+.menu-item-image {
+    height: 250px;
+    border-radius: 16px;
+}
+.menu-card-title {
+    color: #323f4b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.menu-item-link {
+    color: #323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}

@@ -1,0 +1,11 @@
+.linear-gradient-background {
+    border: 5px solid blue;
+    height: 40vh;
+    background-image: linear-gradient(to bottom, orange, white, green);
+}
+.radial-gradient-background {
+    border: 5px solid gray;
+    border-radius: 100px;
+    height: 40vh;
+    background-image: radial-gradient(red, blue, green, yellow, pink);
+}

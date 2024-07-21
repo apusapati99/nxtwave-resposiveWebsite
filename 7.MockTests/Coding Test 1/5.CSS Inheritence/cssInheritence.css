@@ -1,0 +1,19 @@
+.heading {
+    color: #00203f;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.cricket-description-container {
+    background-color: #adf0d1;
+    border-radius: 8px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #00203f;
+    text-align: right;
+    color: #00203f;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 500
+}

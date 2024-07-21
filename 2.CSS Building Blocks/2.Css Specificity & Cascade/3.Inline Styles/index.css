@@ -1,0 +1,16 @@
+.main-para {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: normal;
+}
+.main-heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 21px;
+}
+#mainHeading {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+}

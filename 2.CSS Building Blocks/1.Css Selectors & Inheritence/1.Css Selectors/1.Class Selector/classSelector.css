@@ -1,0 +1,13 @@
+.main-heading {
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+}
+.description {
+    color: #323f4b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}

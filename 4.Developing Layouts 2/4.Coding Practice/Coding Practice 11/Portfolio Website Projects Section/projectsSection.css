@@ -1,0 +1,55 @@
+.projects-section-bg-container {
+    background-color: #3e4c59;
+}
+.portfolio-title {
+    color: #cced00;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+}
+.projects-section-heading {
+    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+}
+.project-section-card-container{
+    width: 100%;
+    border-radius: 16px;
+}
+.project-section-card-img {
+    width: 100%;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+}
+.projects-card-section-container {
+    background-color: #323f4b;
+    padding: 13px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+.card-title {
+    color: #9aa5b1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    
+}
+.card-heading {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+.card-description {
+    color: #9aa5b1;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+}
+.readMore-link {
+    color: #cced00;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+}
+.icon {
+    margin-left: 5px;
+}

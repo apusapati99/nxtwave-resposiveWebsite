@@ -1,0 +1,45 @@
+.product-section-container {
+    background-color: whitesmoke;
+}
+.product-heading {
+    color: #1f2933;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+.product-card {
+    width: 100%;
+    height: 700px;
+    text-align: left;
+}
+.product-section-headset-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    background-size: cover;
+}
+.product-section-headset-controller {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    background-size: cover;
+}
+.product-card-heading {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+.product-card-price {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.product-card-button {
+    height: 35px;
+    width: 120px;
+}
+.view-all {
+    height: 40px;
+    width: 100px;
+    background-color: #1754a1;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}

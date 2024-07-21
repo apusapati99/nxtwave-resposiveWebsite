@@ -1,0 +1,21 @@
+.contactus-section-bg-container {
+    background-color: #f5f7fa;
+    width: 100%;
+}
+
+.contactus-section-haeding {
+    color: #183b56;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.contactus-section-block {
+    color: #ff9f00;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #ff9f00;
+    font-size: 18px;
+    font-weight: 500;
+    height: 50px;
+    width: 140px;
+}

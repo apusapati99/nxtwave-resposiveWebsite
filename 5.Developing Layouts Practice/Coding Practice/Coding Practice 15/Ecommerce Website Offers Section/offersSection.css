@@ -1,0 +1,30 @@
+.offers-section-bg-container {
+    background-image: linear-gradient(to right, #f49541, #dd5d97, #ad2167);
+    width: 100%;
+}
+.special-offer-img {
+    width: 100%;
+}
+.appliances-img {
+    width: 100%;
+}
+.special-offers-heading {
+    color: #ad2167;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    font-weight: 600;
+}
+.special-offer-desc {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.credit-card-img {
+    height: 100px;
+    width: 280px;
+}
+.discount-percentage {
+    font-style: italic;
+    font-weight: 600;
+}

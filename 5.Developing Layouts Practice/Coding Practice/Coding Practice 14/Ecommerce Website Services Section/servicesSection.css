@@ -1,0 +1,33 @@
+.services-section-bg-container {
+    background-color: whitesmoke;
+}
+.services-section-heading {
+    color: #183b56;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 27px;
+    font-weight: 500;
+}
+.services-section-description {
+    color: #7b8794;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.service-section-card-container {
+    background-color: white;
+    width: 100%;
+}
+.service-card-section-img {
+    height: 90px;
+    width: 110px;
+}
+.service-card-section-heading {
+    color: #1f2933;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.service-card-section-description {
+    color: #616c7c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
